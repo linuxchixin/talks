@@ -26,7 +26,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 * [Akarsha Sehwag](https://github.com/aksh98): **gdb - Debugging tool for C/C++ programs**
 	* [Presentation](https://github.com/LinuxChixIndia/talks/files/1062188/GNU.debugger.pdf)
 
-* [Priayl Trivedi](https://github.com/Priyal-Trivedi): **Crash course on Tmux**
+* [Priyal Trivedi](https://github.com/Priyal-Trivedi): **Crash course on Tmux**
 	* [Presentation](http://slides.com/priyaltrivedi-1/tmux-terminal-multiplexer#/)
 
 * [Ashmeet Singh](https://github.com/meetsha): **Customising your Linux UI using GNOME**
