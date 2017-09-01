@@ -15,6 +15,18 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 
 
 ## 2017
+* [Shyam Saini](https://github.com/mysticTot): **Netlink Sockets : A way to communicate with kernel**
+	* Resources: [Netlink](https://en.wikipedia.org/wiki/Netlink)
+
+* [Shivani Bhardwaj](https://github.com/shivan1b): **How NAT works**
+	* [Presentation](http://slides.com/shivanibhardwaj/how-nat-works#/)
+	* Resources: [How NAT Works](http://computer.howstuffworks.com/nat.htm), [How Many Devices Can Connect to One Wireless Router?](https://www.lifewire.com/how-many-devices-can-share-a-wifi-network-818298)
+	
+* [Nupur Agrahari](https://github.com/nupuragrahari): **Linux Network Configuration and Troubleshooting Commands**
+	* [Presentation](https://docs.google.com/presentation/d/1bAXFgUSfaCpQ9Ce9bwLld7Yb5ySpBOSj9SxexNlMLzc/edit#slide=id.p)
+	* Resources: [Linux telnet command](https://www.computerhope.com/unix/utelnet.htm), [Network Configuration and Troubleshooting Commands](https://www.tecmint.com/linux-network-configuration-and-troubleshooting-commands/)
+	
+* [Sahil Joseph](https://github.com/Warlord77): **Linux Networking 101**
 
 * [Rajat Goyal](): **How to be a lazier developer**
 	* [Presentation](http://slides.com/rajat404/shell_config)
