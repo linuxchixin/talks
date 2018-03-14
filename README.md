@@ -53,7 +53,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 
 * [Shashank](https://github.com/lbsrex): **Competitive Coding and Other War Related Stuff**
 	* [Presentation](https://drive.google.com/open?id=1P9GNGPXcY1j3TNUfE56mve7kQsIn5ar90NsFyvkvPZ0)
-	* [A Collection of Books](https://drive.google.com/open?id=0B1EkH2evW0JORVNPVVVDMm0wOUU), 
+	* [A Collection of Books](https://drive.google.com/open?id=0B1EkH2evW0JORVNPVVVDMm0wOUU)
 
 [LinuxChix India]: https://india.linuxchix.org/
 [new-talk-proposal]: https://github.com/LinuxChixIndia/talks/issues/new
