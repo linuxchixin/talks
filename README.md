@@ -51,7 +51,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 * [Himanshi Jain](https://github.com/HimanshiJain): **Playing with partitions using Gparted**
 	* [Presentation](https://drive.google.com/open?id=1-uirLJ9HPTCvKoY-7Op1vZWaZPlKb8JxQLwWfy-yL_c)
 
-* [Shashank Guupta](https://github.com/lbsrex): **Competitive Coding and Other War Related Stuff**
+* [Shashank](https://github.com/lbsrex): **Competitive Coding and Other War Related Stuff**
 	* [Presentation](https://drive.google.com/open?id=1P9GNGPXcY1j3TNUfE56mve7kQsIn5ar90NsFyvkvPZ0)
 	* [A Collection of Books](https://drive.google.com/open?id=0B1EkH2evW0JORVNPVVVDMm0wOUU), 
 
