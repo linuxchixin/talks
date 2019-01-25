@@ -54,6 +54,44 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 * [Shashank](https://github.com/lbsrex): **Competitive Coding and Other War Related Stuff**
 	* [Presentation](https://drive.google.com/open?id=1P9GNGPXcY1j3TNUfE56mve7kQsIn5ar90NsFyvkvPZ0)
 	* [A Collection of Books](https://drive.google.com/open?id=0B1EkH2evW0JORVNPVVVDMm0wOUU)
+## 2018
+* [Anu Mittal](https://github.com/anumittal): **My experience working on Linux **
+	* Resources: [Slides](https://drive.google.com/file/d/0B9XiOPGG2l_vcTNNcEVhVjV1RnM/view)
+* [Ayan Pahwa](https://github.com/iayanpahwa): **Reverse engineering IoT Devices using FOSS**
+	* Resources: [Slides](https://www.slideshare.net/AyanPahwa1/reverse-engineering-iot-devices-86475004)	
+	* [Video](https://www.youtube.com/watch?v=g1_8cY--fIM)
+* [Suhaib Khan](https://github.com/suheb): **How SSH works**
+	* Resources: [Slides](https://drive.google.com/file/d/0B52KsQVy2Z4TZ1dxdVdrck9Eanc/view)	
+	
+* [Himanshi Jain](https://github.com/mysticTot): **Building Your First Linux Kernel**
+	* Resources: [Slides](https://docs.google.com/presentation/d/1LF5wu4Mu9Zuj-FtPzj_Zxd75KHzJZUxQxC5GUQZ0RFw/edit?usp=sharing)
+* [Manas Kashyap](https://github.com/Manas-kashyap): **Handson on Debian packaging of nodejs modules.**
+	* Resources: [Packaging guide](https://github.com/linuxchixin/talks/files/1691623/Debian_packaging.pdf)
+* [Harsh Lathwal](https://github.com/xeon-zolt ): **Meilix & Meilix generator**
+	* Resources: [Blog](http://blog.fossasia.org/author/xeon-zolt)
+* [BananaSenpai](https://github.com/BananaSenpai): **Competitive Programming and other war related stuff**
+* [Kuldeep Singh Dhaka](https://github.com/kuldeepdhaka): **Introduction to Embedded system development**
+	* Resources: [Embedded Systems](en.wikipedia.org/wiki/Embedded_system)
+* [Jai Verma](https://github.com/jaiverma): **Exploring the heap**
+* [Shivani Bhardwaj](https://github.com/shivan1b): **Understanding .git**
+	* Resources: [Git](medium.freecodecamp.org/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807)
+* [Vipul Gupta](https://github.com/kuldeepdhaka): **Bot Creation Bootcamp(BCB)**
+	* Resources: [Twitter Bots]( slides.com/vipulgupta2048/2itterbots)	
+	* Resources: [Telegram Bots](slides.com/realslimshanky/tbotpython)
+* [Ayan Pahwa](https://github.com/iayanpahwa): **Maintaining projects that depends on other multiple open source projects**
+	* Resources: [Video](youtube.com/watch?v=a_Ua0I9KVwY)	
+* [Ayan Pahwa](https://github.com/iayanpahwa): **Let's talk Essential Non Tech? - Becoming a technology influencer**
+* [Rituka Patwal](https://github.com/iamPo21): **Hands on Flutter**
+	* Resources: [Flutter](https://flutter.io/docs/get-started/install)	
+* [Sanyam Khurana](https://github.com/CuriousLearner): **Why should you contribute to Open Source?**
+* [Jatin Kaushal](https://github.com/iamPo21): **Linux Init Systems**
+	* Resources: [Slides](https://v2.overleaf.com/read/cpwrysqyvjqc)	
+* [Nikhil  Kumar Singh](https://github.com/nk521): **Assembly 101**
+	* Resources: [Slides](https://nk521.github.io/asm/#/)
+* [Ishaan Malik](https://github.com/Ishaan28malik ): **Post Office Protocol and IMAP**
+	
+* [Animesh Verma](https://github.com/AniVerma17 ): **Android Development 101**
+	* Resources: [Slides](https://docs.google.com/presentation/d/14jwQCMKQyDTt-AQwVX1xek4QAbJwLezIgfPRC-otCxY/edit)		
 
 [LinuxChix India]: https://india.linuxchix.org/
 [new-talk-proposal]: https://github.com/LinuxChixIndia/talks/issues/new
