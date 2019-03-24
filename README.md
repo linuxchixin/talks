@@ -55,7 +55,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 	* [Presentation](https://drive.google.com/open?id=1P9GNGPXcY1j3TNUfE56mve7kQsIn5ar90NsFyvkvPZ0)
 	* [A Collection of Books](https://drive.google.com/open?id=0B1EkH2evW0JORVNPVVVDMm0wOUU)
 ## 2018
-* [Anu Mittal](https://github.com/anumittal): **My experience working on Linux **
+* [Anu Mittal](https://github.com/anumittal): **My experience working on Linux**
 	* Resources: [Slides](https://drive.google.com/file/d/0B9XiOPGG2l_vcTNNcEVhVjV1RnM/view)
 * [Ayan Pahwa](https://github.com/iayanpahwa): **Reverse engineering IoT Devices using FOSS**
 	* Resources: [Slides](https://www.slideshare.net/AyanPahwa1/reverse-engineering-iot-devices-86475004)	
