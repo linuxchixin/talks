@@ -92,6 +92,8 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 	
 * [Animesh Verma](https://github.com/AniVerma17 ): **Android Development 101**
 	* Resources: [Slides](https://docs.google.com/presentation/d/14jwQCMKQyDTt-AQwVX1xek4QAbJwLezIgfPRC-otCxY/edit)		
+## 2019
+* [Soumya Chopra](https://github.com/Soumya0803): **Basics of Blockchain**
 
 [LinuxChix India]: https://india.linuxchix.org/
 [new-talk-proposal]: https://github.com/LinuxChixIndia/talks/issues/new
