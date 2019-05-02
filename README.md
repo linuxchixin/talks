@@ -55,7 +55,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 	* [Presentation](https://drive.google.com/open?id=1P9GNGPXcY1j3TNUfE56mve7kQsIn5ar90NsFyvkvPZ0)
 	* [A Collection of Books](https://drive.google.com/open?id=0B1EkH2evW0JORVNPVVVDMm0wOUU)
 ## 2018
-* [Anu Mittal](https://github.com/anumittal): **My experience working on Linux **
+* [Anu Mittal](https://github.com/anumittal): **My experience working on Linux**
 	* Resources: [Slides](https://drive.google.com/file/d/0B9XiOPGG2l_vcTNNcEVhVjV1RnM/view)
 * [Ayan Pahwa](https://github.com/iayanpahwa): **Reverse engineering IoT Devices using FOSS**
 	* Resources: [Slides](https://www.slideshare.net/AyanPahwa1/reverse-engineering-iot-devices-86475004)	
@@ -71,13 +71,13 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 	* Resources: [Blog](http://blog.fossasia.org/author/xeon-zolt)
 * [BananaSenpai](https://github.com/BananaSenpai): **Competitive Programming and other war related stuff**
 * [Kuldeep Singh Dhaka](https://github.com/kuldeepdhaka): **Introduction to Embedded system development**
-	* Resources: [Embedded Systems](en.wikipedia.org/wiki/Embedded_system)
+	* Resources: [Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system)
 * [Jai Verma](https://github.com/jaiverma): **Exploring the heap**
 * [Shivani Bhardwaj](https://github.com/shivan1b): **Understanding .git**
-	* Resources: [Git](medium.freecodecamp.org/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807)
+	* Resources: [Git](https://medium.freecodecamp.org/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807)
 * [Vipul Gupta](https://github.com/kuldeepdhaka): **Bot Creation Bootcamp(BCB)**
-	* Resources: [Twitter Bots]( slides.com/vipulgupta2048/2itterbots)	
-	* Resources: [Telegram Bots](slides.com/realslimshanky/tbotpython)
+	* Resources: [Twitter Bots](https://slides.com/vipulgupta2048/2itterbots)	
+	* Resources: [Telegram Bots](https://slides.com/realslimshanky/tbotpython)
 * [Ayan Pahwa](https://github.com/iayanpahwa): **Maintaining projects that depends on other multiple open source projects**
 	* Resources: [Video](youtube.com/watch?v=a_Ua0I9KVwY)	
 * [Ayan Pahwa](https://github.com/iayanpahwa): **Let's talk Essential Non Tech? - Becoming a technology influencer**
