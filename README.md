@@ -79,7 +79,7 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 	* Resources: [Twitter Bots](https://slides.com/vipulgupta2048/2itterbots)	
 	* Resources: [Telegram Bots](https://slides.com/realslimshanky/tbotpython)
 * [Ayan Pahwa](https://github.com/iayanpahwa): **Maintaining projects that depends on other multiple open source projects**
-	* Resources: [Video](youtube.com/watch?v=a_Ua0I9KVwY)	
+	* Resources: [Video](https://www.youtube.com/watch?v=a_Ua0I9KVwY)	
 * [Ayan Pahwa](https://github.com/iayanpahwa): **Let's talk Essential Non Tech? - Becoming a technology influencer**
 * [Rituka Patwal](https://github.com/iamPo21): **Hands on Flutter**
 	* Resources: [Flutter](https://flutter.io/docs/get-started/install)	
