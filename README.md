@@ -92,6 +92,9 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 	
 * [Animesh Verma](https://github.com/AniVerma17 ): **Android Development 101**
 	* Resources: [Slides](https://docs.google.com/presentation/d/14jwQCMKQyDTt-AQwVX1xek4QAbJwLezIgfPRC-otCxY/edit)		
+* [Apurv Jyotirmay](https://github.com/ajyotirmay): **Shell Scripting 101**
+	* Resources: [Slides](https://drive.google.com/open?id=1MN3s2w3Ld_CSMa6uV4bn2UOHy4zjSgzz)
+	* [Website](https://bash.cyberciti.biz/guide/Main_Page)
 ## 2019
 * [Soumya Chopra](https://github.com/Soumya0803): **Basics of Blockchain**
 * [Aishwarya Seth](https://github.com/The-Lady ): **Cryptography - What it is all about?**
