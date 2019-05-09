@@ -94,9 +94,13 @@ To propose a talk, simply create a github issue [here][new-talk-proposal] and fo
 	* Resources: [Slides](https://docs.google.com/presentation/d/14jwQCMKQyDTt-AQwVX1xek4QAbJwLezIgfPRC-otCxY/edit)		
 ## 2019
 * [Soumya Chopra](https://github.com/Soumya0803): **Basics of Blockchain**
+* [Aishwarya Seth](https://github.com/The-Lady ): **Cryptography - What it is all about?**
+	* Resources: [Book](https://drive.google.com/file/d/1gIZfCRFCuaSWH2QZKU-7-h5Rg0wMBrRE/view)
+	* [Slides](https://docs.google.com/presentation/d/1iKZb37SNYJWEf3Ko_zht1_7sX7gWoXbUioUtOM5kKdw/edit?usp=sharing)
 
 [LinuxChix India]: https://india.linuxchix.org/
 [new-talk-proposal]: https://github.com/LinuxChixIndia/talks/issues/new
+
 
 ---
 
